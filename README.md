@@ -1,2 +1,2 @@
 # Resume
-I built a resume application using html, css and javascript
+I built a resume application using html, inline-css and javascript
